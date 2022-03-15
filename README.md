@@ -9,6 +9,8 @@ O objetivo deste projeto foi no desenvolvimento de um Dashboard de vendas e devo
 
 Dashboard criado utilizando como base aula da Datab Inteligência e Estratégia, com os mestres Karine Lago e Laennder Alves.
 
+https://app.powerbi.com/links/w6nM5zyr1y?ctid=a67ad6c1-b592-4cf1-8c30-5f05c89e1683&pbi_source=linkShare
+
 https://www.youtube.com/c/DatabInteligencia
 https://www.youtube.com/user/Intelxcel
 https://www.youtube.com/user/GuruDoExcel
