@@ -11,6 +11,3 @@ Dashboard criado utilizando como base aula da Datab Inteligência e Estratégia,
 
 https://app.powerbi.com/view?r=eyJrIjoiZjU3NWI0ZjYtMDA4My00YjRiLWJmOTEtZGIzNjM3NTJlMTljIiwidCI6ImE2N2FkNmMxLWI1OTItNGNmMS04YzMwLTVmMDVjODllMTY4MyJ9
 
-https://www.youtube.com/c/DatabInteligencia
-https://www.youtube.com/user/Intelxcel
-https://www.youtube.com/user/GuruDoExcel
